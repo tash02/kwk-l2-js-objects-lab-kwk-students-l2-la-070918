@@ -19,7 +19,7 @@ function deleteFromDriverByKey (driver, key) {
   return newdriver
 }
 
-
+function destructivelyDeleteFromDriverByKey (driver, key) {
 
 // var clone = Object.({}, obj);
 
