@@ -2,6 +2,6 @@
 var driver = {
   name: "tasha"
 }
-function updateDriverWithKeyAndValue (driver.age:) {
+function updateDriverWithKeyAndValue (driver.age="15") {
   return (driver)
 }
