@@ -20,7 +20,7 @@ function deleteFromDriverByKey (driver, key) {
 }
 
 function destructivelyDeleteFromDriverByKey (driver, key){
-  let mutatedriver = driver
+  let newdriver = driver
   delete mutatedriverdriver [key]
   return mutatedriver
 }
