@@ -1,5 +1,5 @@
 // Write your solution in this file!
-var driver = {
+ driver = {
 name: "Sam", 
 address: "11 Broadway"
 }
