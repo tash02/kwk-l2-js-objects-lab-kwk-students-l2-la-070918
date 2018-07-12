@@ -5,6 +5,6 @@ var driver = {
 function updateDriverWithKeyAndValue (driver, key, value){
   // driver.age="15"
   return Object.assign(
-    {},driver, {key:value}
+    {},driver, {key: value}
     )
 }
