@@ -21,7 +21,6 @@ function deleteFromDriverByKey (driver, key) {
 
 
 
-// var clone = Object.assign({}, obj);
 
 
     
